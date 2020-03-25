@@ -1,2 +1,13 @@
-# dgt.github.io
-hello world
+https://dgt123dgt.github.io/dgt.github.io/
+# 步骤
+1.  浏览器端
+    输入框
+    发送按钮
+        创建自己的聊天框
+        点击发送按钮 -ajax
+2.  服务器端
+    返回信息
+3.  数据回来之后
+    渲染到页面上
+    创建一个聊天框  添加到页面上
+    服务器返回的内容
